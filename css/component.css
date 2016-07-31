@@ -47,7 +47,7 @@ body {
 	display: inline-block;
 	float: left;
 	width: 360px;
-	max-width: 75%;
+	max-width: 100%;
 	vertical-align: top;
 	margin-right: 20px;
   padding: 20px 0;
@@ -1026,5 +1026,15 @@ body {
   .details-open .book {
     -webkit-transform: rotateY(90deg);
             transform: rotateY(90deg);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .bookshelf figure {
+    width: 100%;
+  }
+
+  .description-container {
+    padding: 5%;
   }
 }

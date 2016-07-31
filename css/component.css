@@ -748,6 +748,11 @@ body {
           transition-delay: .25s;
 }
 
+.details-open .details ul li:nth-child(5) {
+  -webkit-transition-delay: .3s;
+          transition-delay: .3s;
+}
+
 .details-open .details ul li {
   -webkit-transform: translateX(0);
           transform: translateX(0);

@@ -1026,6 +1026,11 @@ body {
   }
 }
 
+#mc-embedded-subscribe-form {
+  text-align: initial;
+  padding: 0;
+}
+
 
 @media screen and (max-width: 26.3125em) {
   .details-open .book {

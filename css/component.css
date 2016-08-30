@@ -1026,8 +1026,8 @@ body {
   }
 }
 
-#mc-embedded-subscribe-form {
-  text-align: initial;
+#mc-embedded-subscribe form {
+  text-align: initial ;
   padding: 0;
 }
 

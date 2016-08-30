@@ -1026,9 +1026,9 @@ body {
   }
 }
 
-#mc-embedded-subscribe form {
-  text-align: initial ;
-  padding: 0;
+#mc-embedded-subscribe-form {
+  text-align: initial !important;
+  padding: 0 !important;
 }
 
 

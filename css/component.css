@@ -15,7 +15,7 @@ body {
 }
 
 .book-info {
-	margin-bottom: 35px;
+	margin-bottom: 30px;
 }
 
 .description-container {
@@ -1024,11 +1024,6 @@ body {
     background: -webkit-linear-gradient(top, white 50%, #64696a 50%);
     background: linear-gradient(to bottom, white 50%, #64696a 50%);
   }
-}
-
-#mc-embedded-subscribe-form {
-  text-align: initial !important;
-  padding: 0 !important;
 }
 
 

@@ -81,12 +81,28 @@ a:hover, a:focus {
 	width: 275px;
 }
 
+.btn-secondary {
+	background-color: white;
+	color: #747171;
+	border: 1px solid #747171;
+	text-transform: none;
+	width: auto;
+}
+
+.btn.btn-secondary:hover {
+	background-color: #fbfbfb;
+}
+
 .btn:hover {
-	background-color: rgba(0, 0, 0, 0.83)
+	background-color: rgba(0, 0, 0, 0.9)
 }
 
 .btn-container {
 	text-transform: center;
+}
+
+.btn-separator {
+	margin: 0px 10px;
 }
 
 .discount {
